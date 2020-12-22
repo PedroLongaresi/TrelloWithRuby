@@ -7,4 +7,4 @@ To script works, please input a token (made with normal login in Trello and capt
 
 
 
-Explicação sobre o projeto: https://www.loom.com/share/c116ee6a76da414caceffbd0186c67cb
+Explicação sobre o projeto: https://vimeo.com/493615103
